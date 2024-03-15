@@ -1,13 +1,40 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
-</head>
-<body>
-		<!-- Your code goes here-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="images/favicon.ico" />
+    <link rel="stylesheet" href="css/header.css" />
+    <link rel="stylesheet" href="css/main-content.css" />
+    <script src="js/main.js" defer></script>
+    <title>Virtual Labs</title>
+  </head>
+  <body>
+    <main>
+      <div class="simulation-container">
+        <h2 class="title">PROJECTION OF POINTS</h2>
+        
+        <!-- mainPage  -->
+        <div class="content-container" id="mainPage" style="visibility: visible;">
+            <h3 class="instruction-main" style>Objective:</h3>
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
-</body>
+            <p class="content-main" id="content">To study about projection of points.</p>
+
+            <h3 class="instruction-main" style="top: 100px; width: 300px;">Instruments used:</h3>
+
+            <p class="instruments">
+              H, 2H, 3H pencils, Mini drafter.
+            </p>
+
+            <img class="instruments-img" id="instruments-img-1" style="visibility: visible;" src="images/instruments.png" alt="Instruments"/>
+
+            <button style="position: absolute; visibility: visible;" class="next" id="next-1" onclick="parent.location = './html/exp-list.html'">Start</button>
+        </div>
+      </div>
+    </main>
+  </body>
 </html>
