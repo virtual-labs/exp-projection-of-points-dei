@@ -1,0 +1,40 @@
+/* style the header container  */
+
+nav {
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+  }
+  
+  body {
+    font-family: "Arial", sans-serif;
+}
+
+  .redline {
+    height: 7px;
+    width: full;
+    background-color: #fd7e14;
+  }
+  
+  .vlabs {
+    font-size: 35px;
+    font-weight: 400;
+    color: #2c99ce;
+    font-family: sans-serif;
+  }
+  
+  nav .logo1 {
+    height: 60px;
+  }
+  
+  nav .logo2 {
+    height: 70px;
+  }
+  
+  .redline {
+    height: 7px;
+    width: full;
+    background-color: #fd7e14;
+  }
