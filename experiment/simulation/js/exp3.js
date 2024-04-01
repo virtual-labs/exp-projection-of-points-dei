@@ -166,6 +166,7 @@ pencil2Step3.addEventListener("click", (evt) => {
 });
 
 nextToFinalPng.addEventListener("click", (evt) => {
+    png3Step3.style.visibility = "hidden";
     evt.target.style.visibility = "hidden";
     arrNext.style.visibility = "hidden";
     gif6Step3.style.visibility = "hidden";

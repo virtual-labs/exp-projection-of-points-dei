@@ -1,39 +1,188 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "questions": [
+      {
+        "question": "In orthographic projection, a point is represented by the intersection of how many lines?",
+        "answers": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "explanations": {
+          "A": "One"
+        },
+        "correctAnswer": "A",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "What does the term 'projection of a point' refer to in engineering drawing?",
+        "answers": {
+          "A": "Intersection of lines",
+          "B": "Perpendicular drop to a line or plane",
+          "C": "Front view of a point",
+          "D": "Top view of a point"
+        },
+        "explanations": {
+          "B": "Perpendicular drop to a line or plane"
+        },
+        "correctAnswer": "B",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "What is the purpose of a projector in the projection of a point?",
+        "answers": {
+          "A": "To draw lines",
+          "B": "To rotate the point",
+          "C": "To drop a perpendicular",
+          "D": "To define the quadrant"
+        },
+        "explanations": {
+          "C": "To drop a perpendicular"
+        },
+        "correctAnswer": "C",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "What is the significance of the notation a, b, c, d in engineering drawing?",
+        "answers": {
+          "A": "Front view of a point",
+          "B": "Top view of a point",
+          "C": "Profile/Side view of a point",
+          "D": "Actual position of a point"
+        },
+        "explanations": {
+          "B": "Top view of a point"
+        },
+        "correctAnswer": "B",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "What does a point represent in engineering drawing?",
+        "answers": {
+          "A": "Width, height, and depth",
+          "B": "Location in space",
+          "C": "Intersection of three lines",
+          "D": "Front view of an object"
+        },
+        "explanations": {
+          "B": "Location in space"
+        },
+        "correctAnswer": "B",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In the 2nd quadrant, where does the upper part of the Vertical Plane (VP) lie after rotation?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "A": "Above XY line"
+        },
+        "correctAnswer": "A",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "What is orthographic projection in engineering drawing?",
+        "answers": {
+          "A": "Projection on a single reference plane",
+          "B": "Projection with oblique lines",
+          "C": "Projection on different reference planes",
+          "D": "Projection with curved lines"
+        },
+        "explanations": {
+          "C": "Projection on different reference planes"
+        },
+        "correctAnswer": "C",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "How is the rear part of the Horizontal Plane (HP) represented in the 1st quadrant after rotation?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "B": "Below XY line"
+        },
+        "correctAnswer": "B",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "In the 3rd quadrant, where does the lower part of the Vertical Plane (VP) lie after rotation?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "B": "Below XY line"
+        },
+        "correctAnswer": "B",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "Which notation is used for the side view of a point?",
+        "answers": {
+          "A": "a, b, c, d",
+          "B": "a', b', c', d'",
+          "C": "a'', b'', c'', d''",
+          "D": "A, B, C, D"
+        },
+        "explanations": {
+          "C": "a'', b'', c'', d''"
+        },
+        "correctAnswer": "C",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "In the 4th quadrant, where does the front part of the Horizontal Plane (HP) lie after rotation?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "B": "Below XY line"
+        },
+        "correctAnswer": "B",
+        "difficulty": "advanced"
+      },
+      {
+        "question": "Which quadrant does a point belong to when it is below the Horizontal Plane (HP) and on the Vertical Plane (VP)?",
+        "answers": {
+          "A": "1st quadrant",
+          "B": "2nd quadrant",
+          "C": "3rd quadrant",
+          "D": "4th quadrant"
+        },
+        "explanations": {
+          "C": "3rd quadrant"
+        },
+        "correctAnswer": "C",
+        "difficulty": "advanced"
+      },
+      {
+        "question": "In the 1st quadrant, where does the upper part of the Vertical Plane (VP) lie after rotation?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "A": "Above XY line"
+        },
+        "correctAnswer": "A",
+        "difficulty": "advanced"
+      }
+    ]
+  }
+  
