@@ -14,7 +14,8 @@ On opening the quadrants, HP is rotated clockwise and brought in the plane of VP
 2. Below XY line, lies the lower part of the VP and front part of the HP
 
 #### Important Notations
-
+|Position of the Point| Notations |
+|--------|-----------------------------------|
 | Actual positions of a point | A, B, C, D, ... |
 | Front view of a point | a', b', c', d', ... |
 | Top view of a point | a, b, c, d, ... |  
