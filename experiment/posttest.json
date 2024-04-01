@@ -1,39 +1,202 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "questions": [
+      {
+        "question": "When a point is in the 1st quadrant, where is it located with respect to the Vertical Plane (VP) and Horizontal Plane (HP)?",
+        "answers": {
+          "A": "In front of VP and above HP",
+          "B": "Behind VP and above HP",
+          "C": "Behind VP and below HP",
+          "D": "In front of VP and below HP"
+        },
+        "explanations": {
+          "A": "In front of VP and above HP"
+        },
+        "correctAnswer": "A",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "In which quadrant does a point lie if it is above the Horizontal Plane (HP) and on the Vertical Plane (VP)?",
+        "answers": {
+          "A": "1st quadrant",
+          "B": "2nd quadrant",
+          "C": "3rd quadrant",
+          "D": "4th quadrant"
+        },
+        "explanations": {
+          "C": "3rd quadrant"
+        },
+        "correctAnswer": "C",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "What is the significance of the notation a’’ in the given context?",
+        "answers": {
+          "A": "Front view of a point",
+          "B": "Top view of a point",
+          "C": "Profile/Side view of a point",
+          "D": "Actual position of a point"
+        },
+        "explanations": {
+          "C": "Profile/Side view of a point"
+        },
+        "correctAnswer": "C",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "When a point is below the Horizontal Plane (HP) and in front of the Vertical Plane (VP), where is its top view located?",
+        "answers": {
+          "A": "Above XY",
+          "B": "Below XY",
+          "C": "On XY",
+          "D": "Above or below XY"
+        },
+        "explanations": {
+          "C": "On XY"
+        },
+        "correctAnswer": "C",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "How is the upper part of the Vertical Plane (VP) represented after clockwise rotation in the 2nd quadrant?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "B": "Below XY line"
+        },
+        "correctAnswer": "B",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What is the representation of a point in the first quadrant with respect to VP and HP?",
+        "answers": {
+          "A": "In front of VP and below HP",
+          "B": "Behind VP and below HP",
+          "C": "In front of VP and above HP",
+          "D": "Behind VP and above HP"
+        },
+        "explanations": {
+          "C": "In front of VP and above HP"
+        },
+        "correctAnswer": "C",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "What is the common characteristic of points in the 3rd quadrant?",
+        "answers": {
+          "A": "Above VP and above HP",
+          "B": "Below VP and below HP",
+          "C": "Behind VP and above HP",
+          "D": "Behind VP and below HP"
+        },
+        "explanations": {
+          "D": "Behind VP and below HP"
+        },
+        "correctAnswer": "D",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "How is the lower part of the Vertical Plane (VP) represented after clockwise rotation in the 4th quadrant?",
+        "answers": {
+          "A": "Above XY line",
+          "B": "Below XY line",
+          "C": "On XY line",
+          "D": "Parallel to XY line"
+        },
+        "explanations": {
+          "A": "Above XY line"
+        },
+        "correctAnswer": "A",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "What is the position of a point in Experiment 4 in relation to VP and HP?",
+        "answers": {
+          "A": "In front of VP and above HP",
+          "B": "Behind VP and above HP",
+          "C": "Behind VP and below HP",
+          "D": "In front of VP and below HP"
+        },
+        "explanations": {
+          "D": "In front of VP and below HP"
+        },
+        "correctAnswer": "D",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "When a point is on the Horizontal Plane (HP) and behind the Vertical Plane (VP), where is its top view located?",
+        "answers": {
+          "A": "Above XY",
+          "B": "Below XY",
+          "C": "On XY",
+          "D": "Above or below XY"
+        },
+        "explanations": {
+          "B": "Below XY"
+        },
+        "correctAnswer": "B",
+        "difficulty": "intermediate"
+      },
+      {
+        "question": "When a point is on the Horizontal Plane (HP) and in front of the Vertical Plane (VP), where is its top view located?",
+        "answers": {
+          "A": "Above XY",
+          "B": "Below XY",
+          "C": "On XY",
+          "D": "Above or below XY"
+        },
+        "explanations": {
+          "C": "On XY"
+        },
+        "correctAnswer": "C",
+        "difficulty": "advanced"
+      },
+      {
+        "question": "What is the position of a point when it is below the Horizontal Plane (HP) and behind the Vertical Plane (VP)?",
+        "answers": {
+          "A": "1st quadrant",
+          "B": "2nd quadrant",
+          "C": "3rd quadrant",
+          "D": "4th quadrant"
+        },
+        "explanations": {
+          "C": "3rd quadrant"
+        },
+        "correctAnswer": "C",
+        "difficulty": "advanced"
+      },
+      {
+        "question": "When a point is on the Horizontal Plane (HP) and behind the Vertical Plane (VP), where is its top view located?",
+        "answers": {
+          "A": "Above XY",
+          "B": "Below XY",
+          "C": "On XY",
+          "D": "Above or below XY"
+        },
+        "explanations": {
+          "B": "Below XY"
+        },
+        "correctAnswer": "B",
+        "difficulty": "advanced"
+      },
+      {
+        "question": "What is the representation of a point above the Horizontal Plane (HP) and behind the Vertical Plane (VP) in the 2nd quadrant?",
+        "answers": {
+          "A": "Above XY in both views",
+          "B": "Below XY in both views",
+          "C": "Above XY in front view, below XY in top view",
+          "D": "Below XY in front view, above XY in top view"
+        },
+        "explanations": {
+          "C": "Above XY in front view, below XY in top view"
+        },
+        "correctAnswer": "C",
+        "difficulty": "advanced"
+      }
+    ]
+  }
+  

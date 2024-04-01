@@ -21,6 +21,13 @@ main{
     /* padding: 5px; */
 }
 
+.index-simulation-container{
+    background-color: rgba(220,229,236,255);
+    width: 800px;
+    height: 550px;
+    /* padding: 5px; */
+}
+
 .title{
     margin: 0px;
     padding: 5px;
@@ -97,6 +104,19 @@ main{
     position: absolute;
     left: 730px;
     top: 520px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(20, 117, 228);
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.index-next{
+    position: absolute;
+    left: 700px;
+    top: 450px;
     padding: 10px 15px;
     color: white;
     background-color: rgb(20, 117, 228);

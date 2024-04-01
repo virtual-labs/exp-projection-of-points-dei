@@ -143,7 +143,7 @@ pencil1Step3.addEventListener("click", (evt) => {
 
         arr3Step3.style.visibility = "visible";
         pencil2Step3.style.visibility = "visible";
-    }, 8910)
+    }, 9700)
 });
 
 
@@ -157,18 +157,18 @@ pencil2Step3.addEventListener("click", (evt) => {
     setTimeout(() => {
         gif2Step3.style.visibility = "hidden";
         png3Step3.style.visibility = "visible";
-        }, 11000);
+        }, 15000);
 
     setTimeout(() => {
         nextToFinalPng.style.visibility = "visible";
         arrNext.style.visibility = "visible";
-        }, 12000)
+        }, 16000)
 });
 
 nextToFinalPng.addEventListener("click", (evt) => {
+    png3Step3.style.visibility = "hidden";
     evt.target.style.visibility = "hidden";
     arrNext.style.visibility = "hidden";
-    gif6Step3.style.visibility = "hidden";
     assemblyBox.style.visibility = "hidden";
     statementBox.style.visibility = "hidden";
 
