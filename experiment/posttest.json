@@ -20,11 +20,11 @@
         "answers": {
           "A": "1st quadrant",
           "B": "2nd quadrant",
-          "C": "3rd quadrant",
+          "C": "Both 1st and 2nd quadrants",
           "D": "4th quadrant"
         },
         "explanations": {
-          "C": "3rd quadrant"
+          "C": "Both 1st and 2nd quadrants"
         },
         "correctAnswer": "C",
         "difficulty": "beginner"
@@ -52,7 +52,7 @@
           "D": "Above or below XY"
         },
         "explanations": {
-          "C": "On XY"
+          "B": "Below XY"
         },
         "correctAnswer": "C",
         "difficulty": "beginner"
@@ -66,7 +66,7 @@
           "D": "Parallel to XY line"
         },
         "explanations": {
-          "B": "Below XY line"
+          "A": "Above XY line"
         },
         "correctAnswer": "B",
         "difficulty": "beginner"
@@ -108,7 +108,7 @@
           "D": "Parallel to XY line"
         },
         "explanations": {
-          "A": "Above XY line"
+          "B": "Below XY line"
         },
         "correctAnswer": "A",
         "difficulty": "intermediate"
@@ -136,7 +136,7 @@
           "D": "Above or below XY"
         },
         "explanations": {
-          "B": "Below XY"
+          "A": "Above XY"
         },
         "correctAnswer": "B",
         "difficulty": "intermediate"
@@ -150,7 +150,7 @@
           "D": "Above or below XY"
         },
         "explanations": {
-          "C": "On XY"
+          "B": "Below XY"
         },
         "correctAnswer": "C",
         "difficulty": "advanced"
@@ -169,20 +169,7 @@
         "correctAnswer": "C",
         "difficulty": "advanced"
       },
-      {
-        "question": "When a point is on the Horizontal Plane (HP) and behind the Vertical Plane (VP), where is its top view located?",
-        "answers": {
-          "A": "Above XY",
-          "B": "Below XY",
-          "C": "On XY",
-          "D": "Above or below XY"
-        },
-        "explanations": {
-          "B": "Below XY"
-        },
-        "correctAnswer": "B",
-        "difficulty": "advanced"
-      },
+      
       {
         "question": "What is the representation of a point above the Horizontal Plane (HP) and behind the Vertical Plane (VP) in the 2nd quadrant?",
         "answers": {
@@ -192,7 +179,7 @@
           "D": "Below XY in front view, above XY in top view"
         },
         "explanations": {
-          "C": "Above XY in front view, below XY in top view"
+          "A": "Above XY in both views"
         },
         "correctAnswer": "C",
         "difficulty": "advanced"
