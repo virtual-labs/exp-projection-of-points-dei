@@ -10,7 +10,7 @@
           "D": "Four"
         },
         "explanations": {
-          "A": "One"
+          "B": "Two"
         },
         "correctAnswer": "A",
         "difficulty": "beginner"
@@ -90,17 +90,17 @@
         "answers": {
           "A": "Projection on a single reference plane",
           "B": "Projection with oblique lines",
-          "C": "Projection on different reference planes",
+          "C": "Projection on different reference planes by observing perpendicular to those reference planes.",
           "D": "Projection with curved lines"
         },
         "explanations": {
-          "C": "Projection on different reference planes"
+          "C": "Projection on different reference planes by observing perpendicular to those reference planes."
         },
         "correctAnswer": "C",
         "difficulty": "intermediate"
       },
       {
-        "question": "How is the rear part of the Horizontal Plane (HP) represented in the 1st quadrant after rotation?",
+        "question": "How is the front part of the Horizontal Plane (HP) represented in the 1st quadrant after rotation?",
         "answers": {
           "A": "Above XY line",
           "B": "Below XY line",
@@ -161,10 +161,10 @@
           "A": "1st quadrant",
           "B": "2nd quadrant",
           "C": "3rd quadrant",
-          "D": "4th quadrant"
+          "D": "Both the 3rd and 4th quadrant"
         },
         "explanations": {
-          "C": "3rd quadrant"
+          "D": "Both the 3rd and 4th quadrant"
         },
         "correctAnswer": "C",
         "difficulty": "advanced"
