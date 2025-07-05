@@ -54,7 +54,7 @@
         "explanations": {
           "B": "Below XY"
         },
-        "correctAnswer": "C",
+        "correctAnswer": "B",
         "difficulty": "beginner"
       },
       {
@@ -68,7 +68,7 @@
         "explanations": {
           "A": "Above XY line"
         },
-        "correctAnswer": "B",
+        "correctAnswer": "A",
         "difficulty": "beginner"
       },
       {
@@ -110,7 +110,7 @@
         "explanations": {
           "B": "Below XY line"
         },
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "difficulty": "intermediate"
       },
       {
@@ -138,7 +138,7 @@
         "explanations": {
           "A": "Above XY"
         },
-        "correctAnswer": "B",
+        "correctAnswer": "A",
         "difficulty": "intermediate"
       },
       {
@@ -152,7 +152,7 @@
         "explanations": {
           "B": "Below XY"
         },
-        "correctAnswer": "C",
+        "correctAnswer": "B",
         "difficulty": "advanced"
       },
       {
@@ -181,7 +181,7 @@
         "explanations": {
           "A": "Above XY in both views"
         },
-        "correctAnswer": "C",
+        "correctAnswer": "A",
         "difficulty": "advanced"
       }
     ]
