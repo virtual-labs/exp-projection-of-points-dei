@@ -4,157 +4,183 @@
     {
       "question": "In orthographic projection, a point is represented by the intersection of how many lines?",
       "answers": {
-        "A": "One",
-        "B": "Two",
-        "C": "Three",
-        "D": "Four"
+        "a": "One",
+        "b": "Two",
+        "c": "Three",
+        "d": "Four"
       },
-      "correctAnswer": "B",
-      "explanation": "In orthographic projection, a point is defined by its projections on two reference planes, so two lines intersect to represent it.",
+      "explanations": {
+        "b": "In orthographic projection, a point is represented by its projections on two reference planes (Horizontal Plane and Vertical Plane). These projections appear as the intersection of two perpendicular lines when the planes are unfolded."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "What does the term 'projection of a point' refer to in engineering drawing?",
       "answers": {
-        "A": "Intersection of lines",
-        "B": "Perpendicular drop to a line or plane",
-        "C": "Front view of a point",
-        "D": "Top view of a point"
+        "a": "Intersection of lines",
+        "b": "Perpendicular drop to a line or plane",
+        "c": "Front view of a point",
+        "d": "Top view of a point"
       },
-      "correctAnswer": "B",
-      "explanation": "Projection of a point is the perpendicular dropped from the point onto a reference plane.",
+      "explanations": {
+        "b": "Projection of a point refers to the perpendicular dropped from the point onto a reference plane. This creates a footprint or shadow of the point on the plane, which helps in creating 2D representations of 3D objects."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "What is the purpose of a projector in the projection of a point?",
       "answers": {
-        "A": "To draw lines",
-        "B": "To rotate the point",
-        "C": "To drop a perpendicular",
-        "D": "To define the quadrant"
+        "a": "To draw lines",
+        "b": "To rotate the point",
+        "c": "To drop a perpendicular",
+        "d": "To define the quadrant"
       },
-      "correctAnswer": "C",
-      "explanation": "A projector is an imaginary line used to drop a perpendicular from the object to the plane.",
+      "explanations": {
+        "c": "A projector is an imaginary line that is drawn perpendicular from the object (point, line, or surface) to the projection plane. It serves as the path along which the projection is made, ensuring accurate orthographic representation."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
       "question": "What is the significance of the notation a, b, c, d in engineering drawing?",
       "answers": {
-        "A": "Front view of a point",
-        "B": "Top view of a point",
-        "C": "Profile/Side view of a point",
-        "D": "Actual position of a point"
+        "a": "Front view of a point",
+        "b": "Top view of a point",
+        "c": "Profile/Side view of a point",
+        "d": "Actual position of a point"
       },
-      "correctAnswer": "B",
-      "explanation": "Lowercase letters like a, b, c, d are used to represent the top view of points in orthographic drawings.",
+      "explanations": {
+        "b": "Lowercase letters like a, b, c, d are standardized notation used to represent the top view (plan view) of points in orthographic projection. This notation helps distinguish between different views of the same point."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "What does a point represent in engineering drawing?",
       "answers": {
-        "A": "Width, height, and depth",
-        "B": "Location in space",
-        "C": "Intersection of three lines",
-        "D": "Front view of an object"
+        "a": "Width, height, and depth",
+        "b": "Location in space",
+        "c": "Intersection of three lines",
+        "d": "Front view of an object"
       },
-      "correctAnswer": "B",
-      "explanation": "A point in drawing defines a location in space with no dimensions.",
+      "explanations": {
+        "b": "A point in engineering drawing represents a specific location in three-dimensional space. It has no dimensions (length, width, or height) but serves as a fundamental geometric element for defining positions, intersections, and references."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "In the 2nd quadrant, where does the upper part of the Vertical Plane (VP) lie after rotation?",
       "answers": {
-        "A": "Above XY line",
-        "B": "Below XY line",
-        "C": "On XY line",
-        "D": "Parallel to XY line"
+        "a": "Above XY line",
+        "b": "Below XY line",
+        "c": "On XY line",
+        "d": "Parallel to XY line"
       },
-      "correctAnswer": "A",
-      "explanation": "In the 2nd quadrant, the VP is behind the HP and appears above XY after rotation.",
+      "explanations": {
+        "a": "In the 2nd quadrant, the Vertical Plane (VP) is positioned behind the Horizontal Plane (HP). When the planes are unfolded for drawing, the upper part of VP appears above the XY line, maintaining the spatial relationship."
+      },
+      "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
       "question": "What is orthographic projection in engineering drawing?",
       "answers": {
-        "A": "Projection on a single reference plane",
-        "B": "Projection with oblique lines",
-        "C": "Projection on different reference planes by observing perpendicular to those reference planes.",
-        "D": "Projection with curved lines"
+        "a": "Projection on a single reference plane",
+        "b": "Projection with oblique lines",
+        "c": "Projection on different reference planes by observing perpendicular to those reference planes.",
+        "d": "Projection with curved lines"
       },
-      "correctAnswer": "C",
-      "explanation": "Orthographic projection involves projecting views perpendicular to reference planes (VP, HP).",
+      "explanations": {
+        "c": "Orthographic projection is a method of representing 3D objects on 2D planes by projecting views perpendicular to reference planes (typically Vertical Plane and Horizontal Plane). This ensures true shape and size representation without distortion."
+      },
+      "correctAnswer": "c",
       "difficulty": "intermediate"
     },
     {
       "question": "How is the front part of the Horizontal Plane (HP) represented in the 1st quadrant after rotation?",
       "answers": {
-        "A": "Above XY line",
-        "B": "Below XY line",
-        "C": "On XY line",
-        "D": "Parallel to XY line"
+        "a": "Above XY line",
+        "b": "Below XY line",
+        "c": "On XY line",
+        "d": "Parallel to XY line"
       },
-      "correctAnswer": "B",
-      "explanation": "After rotation, the HP folds downward and its front appears below the XY line in the 1st quadrant.",
+      "explanations": {
+        "b": "In the 1st quadrant, after rotation and unfolding of the planes, the Horizontal Plane (HP) folds downward about the XY line. Therefore, the front part of HP appears below the XY line in the final drawing layout."
+      },
+      "correctAnswer": "b",
       "difficulty": "intermediate"
     },
     {
       "question": "In the 3rd quadrant, where does the lower part of the Vertical Plane (VP) lie after rotation?",
       "answers": {
-        "A": "Above XY line",
-        "B": "Below XY line",
-        "C": "On XY line",
-        "D": "Parallel to XY line"
+        "a": "Above XY line",
+        "b": "Below XY line",
+        "c": "On XY line",
+        "d": "Parallel to XY line"
       },
-      "correctAnswer": "B",
-      "explanation": "In the 3rd quadrant, both HP and VP lie behind the object and appear below XY line after unfolding.",
+      "explanations": {
+        "b": "In the 3rd quadrant, both the Horizontal Plane (HP) and Vertical Plane (VP) are positioned behind and below the object respectively. After unfolding, the lower part of VP appears below the XY line."
+      },
+      "correctAnswer": "b",
       "difficulty": "intermediate"
     },
     {
       "question": "Which notation is used for the side view of a point?",
       "answers": {
-        "A": "a, b, c, d",
-        "B": "a', b', c', d'",
-        "C": "a'', b'', c'', d''",
-        "D": "A, B, C, D"
+        "a": "a, b, c, d",
+        "b": "a', b', c', d'",
+        "c": "a'', b'', c'', d''",
+        "d": "A, B, C, D"
       },
-      "correctAnswer": "C",
-      "explanation": "Side or profile view uses double prime notation like a'' for clarity.",
+      "explanations": {
+        "c": "Side view or profile view of points uses double prime notation (a'', b'', c'', d''). This standardized notation system helps distinguish between top view (a, b, c, d), front view (a', b', c', d'), and side view projections."
+      },
+      "correctAnswer": "c",
       "difficulty": "intermediate"
     },
     {
       "question": "In the 4th quadrant, where does the front part of the Horizontal Plane (HP) lie after rotation?",
       "answers": {
-        "A": "Above XY line",
-        "B": "Below XY line",
-        "C": "On XY line",
-        "D": "Parallel to XY line"
+        "a": "Above XY line",
+        "b": "Below XY line",
+        "c": "On XY line",
+        "d": "Parallel to XY line"
       },
-      "correctAnswer": "B",
-      "explanation": "In the 4th quadrant, HP lies in front of VP and folds below XY line after rotation.",
+      "explanations": {
+        "b": "In the 4th quadrant, the Horizontal Plane (HP) lies in front of the Vertical Plane (VP). When the planes are unfolded for drawing representation, the front part of HP folds below the XY line, similar to the 1st quadrant orientation."
+      },
+      "correctAnswer": "b",
       "difficulty": "advanced"
     },
     {
       "question": "Which quadrant does a point belong to when it is below the Horizontal Plane (HP) and on the Vertical Plane (VP)?",
       "answers": {
-        "A": "1st quadrant",
-        "B": "2nd quadrant",
-        "C": "3rd quadrant",
-        "D": "Both the 3rd and 4th quadrant"
+        "a": "1st quadrant",
+        "b": "2nd quadrant",
+        "c": "3rd quadrant",
+        "d": "Both the 3rd and 4th quadrant"
       },
-      "correctAnswer": "D",
-      "explanation": "If a point is below HP and on VP, it can be in either the 3rd or 4th quadrant depending on lateral placement.",
+      "explanations": {
+        "d": "When a point is below the Horizontal Plane (HP) and lies on the Vertical Plane (VP), it could be positioned in either the 3rd or 4th quadrant depending on its lateral position relative to the origin and reference axes."
+      },
+      "correctAnswer": "d",
       "difficulty": "advanced"
     },
     {
       "question": "In the 1st quadrant, where does the upper part of the Vertical Plane (VP) lie after rotation?",
       "answers": {
-        "A": "Above XY line",
-        "B": "Below XY line",
-        "C": "On XY line",
-        "D": "Parallel to XY line"
+        "a": "Above XY line",
+        "b": "Below XY line",
+        "c": "On XY line",
+        "d": "Parallel to XY line"
       },
-      "correctAnswer": "A",
-      "explanation": "In 1st quadrant, VP lies in front and remains above XY after rotation.",
+      "explanations": {
+        "a": "In the 1st quadrant, the Vertical Plane (VP) is positioned in front of the Horizontal Plane (HP). After rotation and unfolding, the upper part of VP remains above the XY line, maintaining its relative position for proper orthographic representation."
+      },
+      "correctAnswer": "a",
       "difficulty": "advanced"
     }
   ]
